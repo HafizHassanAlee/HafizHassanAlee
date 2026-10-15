@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 [Your degree / university, e.g. BS Computer Science student]
+- 🎓 BS Computer Science student
 - 🔭 Currently building backend projects with **Python** and **FastAPI**
 - 🌱 Currently learning: **[e.g. Docker, REST API design, React]**
 - 🤝 Open to collaborating on Python, web and database projects
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hassan Ali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-alee)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 </div>

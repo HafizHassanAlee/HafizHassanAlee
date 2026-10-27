@@ -24,6 +24,32 @@
 
 ---
 
+## 🏢 Rumiware
+
+<table>
+  <tr>
+    <td width="180" align="center" valign="middle">
+      <a href="https://rumiware.com/">
+        <img src="./rumiware-logo.jpeg" alt="Rumiware logo" width="150" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://rumiware.com/">Rumiware</a> — Software House in Lahore, Pakistan</h3>
+      <p>I'm part of <b>Rumiware</b>, a small, dedicated team building websites, mobile apps, full-stack products and AI automation for growing businesses.</p>
+      <p>
+        🌐 Web Development &nbsp;•&nbsp; 📱 Mobile Apps &nbsp;•&nbsp; ✨ AI Solutions &nbsp;•&nbsp; ⚙️ Full-Stack Products
+      </p>
+      <p>
+        🔗 <a href="https://rumiware.com/">rumiware.com</a> &nbsp;|&nbsp;
+        💻 <a href="https://github.com/rumi-ware">GitHub</a> &nbsp;|&nbsp;
+        📩 <a href="https://rumiware.com/get-quote.html">Free Consultation</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**

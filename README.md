@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Hassan Ali
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Hassan%20Ali&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20%7C%20Backend%20%26%20Web%20Development&descSize=20&descAlignY=58" alt="Hassan Ali banner" />
 
-### Python Developer | Backend & Web Development Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vertical=true&width=500&height=90&lines=Building+with+Python+%26+FastAPI;Learning+SQL+%26+PostgreSQL;Turning+ideas+into+working+projects" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vertical=true&width=500&lines=Building+with+Python+%26+FastAPI;Learning+SQL+%26+PostgreSQL;Turning+ideas+into+working+projects" alt="Typing SVG" />
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HafizHassanAlee&color=2f81f7&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/HafizHassanAlee?style=flat-square&color=2f81f7)
@@ -17,7 +17,7 @@
 
 - 🎓 BS Computer Science student
 - 🔭 Currently building backend projects with **Python** and **FastAPI**
-- 🌱 Currently learning: **[e.g. Docker, REST API design, React]**
+- 🌱 Currently learning: **Docker, REST API design, React**
 - 🤝 Open to collaborating on Python, web and database projects
 - 📍 Based in Pakistan 🇵🇰
 - 💬 Ask me about: Python, FastAPI, SQL, PostgreSQL
@@ -66,7 +66,6 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 **Tools**
-**Tools**
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HafizHassanAlee) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) [![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)](https://neon.tech/) [![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)](https://www.hostinger.com/) [![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://analytics.google.com/)
 
@@ -103,12 +102,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-alee)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ⭐ *If you like my projects, feel free to star them!* ⭐
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />

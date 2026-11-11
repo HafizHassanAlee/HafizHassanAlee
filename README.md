@@ -1,111 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Hassan%20Ali&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20%7C%20Backend%20%26%20Web%20Development&descSize=20&descAlignY=58" alt="Hassan Ali banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hafiz%20Hassan%20Alee&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vertical=true&width=500&height=90&lines=Building+with+Python+%26+FastAPI;Learning+SQL+%26+PostgreSQL;Turning+ideas+into+working+projects" alt="Typing SVG" />
+### 👋 Hi, I'm Hafiz Hassan Alee
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=HafizHassanAlee&color=2f81f7&style=flat-square)
-![Followers](https://img.shields.io/github/followers/HafizHassanAlee?style=flat-square&color=2f81f7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
----
+## 🚀 About Me
+- 🔭 I'm currently working on ...
+- 🌱 I'm learning ...
+- 💬 Ask me about ...
 
-## 🧑‍💻 About Me
-
-- 🎓 BS Computer Science student
-- 🔭 Currently building backend projects with **Python** and **FastAPI**
-- 🌱 Currently learning: **Docker, REST API design, React**
-- 🤝 Open to collaborating on Python, web and database projects
-- 📍 Based in Pakistan 🇵🇰
-- 💬 Ask me about: Python, FastAPI, SQL, PostgreSQL
-
----
-
-## 🏢 Rumiware
-
-<table>
-  <tr>
-    <td width="180" align="center" valign="middle">
-      <a href="https://rumiware.com/">
-        <img src="./rumiware-logo.jpeg" alt="Rumiware logo" width="150" />
-      </a>
-    </td>
-    <td valign="middle">
-      <h3><a href="https://rumiware.com/">Rumiware</a> — Software House in Lahore, Pakistan</h3>
-      <p>I'm part of <b>Rumiware</b>, a small, dedicated team building websites, mobile apps, full-stack products and AI automation for growing businesses.</p>
-      <p>
-        🌐 Web Development &nbsp;•&nbsp; 📱 Mobile Apps &nbsp;•&nbsp; ✨ AI Solutions &nbsp;•&nbsp; ⚙️ Full-Stack Products
-      </p>
-      <p>
-        🔗 <a href="https://rumiware.com/">rumiware.com</a> &nbsp;|&nbsp;
-        💻 <a href="https://github.com/rumi-ware">GitHub</a> &nbsp;|&nbsp;
-        📩 <a href="https://rumiware.com/get-quote.html">Free Consultation</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-**Tools**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HafizHassanAlee) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) [![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)](https://neon.tech/) [![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)](https://www.hostinger.com/) [![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://analytics.google.com/)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [📝 Blogging Website using FastAPI](https://github.com/HafizHassanAlee/Blogging-Website-using-fastAPI) | A blogging web application powered by a FastAPI backend. | `Python` `FastAPI` |
-| [🗄️ Student Management System (SQL)](https://github.com/HafizHassanAlee/Student-Management-System-using-SQL) | Student management system backed by a PostgreSQL database. | `Python` `SQL` `PostgreSQL` |
-| [🎓 Student Management System](https://github.com/HafizHassanAlee/STUDENT-MANAGEMENT-SYSTEM) | Python-based student record manager with JSON file storage. | `Python` `JSON` |
-| [🤖 AI Software House Website](https://github.com/HafizHassanAlee/AI-Software-House-Website) | My first frontend project: a website for an AI and software house. | `HTML` `CSS` |
-
----
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HafizHassanAlee&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizHassanAlee&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=HafizHassanAlee&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-alee)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-
-<br/>
-
-⭐ *If you like my projects, feel free to star them!* ⭐
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+![Stats](https://github-readme-stats.vercel.app/api?username=HafizHassanAlee&show_icons=true&theme=dark)

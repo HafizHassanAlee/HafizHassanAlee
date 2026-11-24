@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="./header.svg" alt="Hassan Ali banner" />
+<img width="100%" src="https://raw.githubusercontent.com/HafizHassanAlee/HafizHassanAlee/main/header-v2.svg" alt="Muhammad Hassan Ali — Software Developer banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vertical=true&width=500&height=90&lines=Building+with+Python+%26+FastAPI;Learning+SQL+%26+PostgreSQL;Turning+ideas+into+working+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vertical=true&width=500&height=90&lines=Building+with+Python+%26+FastAPI;Learning+SQL+%26+PostgreSQL;Turning+ideas+into+working+projects" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HafizHassanAlee&color=2f81f7&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=HafizHassanAlee&color=10b981&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/HafizHassanAlee?style=flat-square&color=2f81f7)
 
 </div>
